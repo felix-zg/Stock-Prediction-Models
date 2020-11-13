@@ -1,0 +1,7 @@
+tensorflow==1.15.4
+matplotlib
+seaborn
+pandas
+scikit-learn
+tqdm
+jupyter
