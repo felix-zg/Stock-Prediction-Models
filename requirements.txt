@@ -5,3 +5,6 @@ pandas
 scikit-learn
 tqdm
 jupyter
+requests
+mpl_finance
+selenium
